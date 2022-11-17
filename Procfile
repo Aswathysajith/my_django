@@ -1,0 +1,1 @@
+web gunicon heroku_proj.vsgi:application --log-file -
